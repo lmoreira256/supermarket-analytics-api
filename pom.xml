@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.lucas.moreira</groupId>
-	<artifactId>supermarket_analytics</artifactId>
+	<artifactId>supermarket-analytics-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Supermarket Analytics</name>
-	<description>Supermarket Analytics</description>
+	<name>Supermarket Analytics API</name>
+	<description>Supermarket Analytics API</description>
 	<url/>
 	<licenses>
 		<license/>
